@@ -1,8 +1,0 @@
-dash == 2.6.0
-pandas
-gunicorn
-ploty
-dash_bootstrap_components
-pandas
-plotly.tools
-plotly.graph_objs
